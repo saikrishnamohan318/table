@@ -1,0 +1,10 @@
+body {
+    margin: 125px 50px;
+}
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+thead {
+    background-color: rgb(158, 139, 175);
+}
